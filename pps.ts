@@ -28,9 +28,9 @@ namespace pps {
     }
     /**
      * Inicia un joc de pedra, paper, tisores contra una altra micro:bit
-     * Pedra guanya a tisores, paper guanya a pedra i tisores guanyen a paper.
-     * Per seleccionar una mà, premi el botó A.
-     * Per acceptar la mà seleccionada, premi el botó B.
+     * \nPedra guanya a tisores, paper guanya a pedra i tisores guanyen a paper.
+     * \nPer seleccionar una mà, premi el botó A.
+     * \nPer acceptar la mà seleccionada, premi el botó B.
      */
     //% block="iniciar joc amb ràdio" weight=1
     export function startRadio(): void {
@@ -72,9 +72,9 @@ namespace pps {
     }
     /**
      * Inicia un joc de pedra, paper, tisores contra un ordinador
-     * Pedra guanya a tisores, paper guanya a pedra i tisores guanyen a paper.
-     * Per seleccionar una mà, premi el botó A.
-     * Per acceptar la mà seleccionada, premi el botó B.
+     * \nPedra guanya a tisores, paper guanya a pedra i tisores guanyen a paper.
+     * \nPer seleccionar una mà, premi el botó A.
+     * \nPer acceptar la mà seleccionada, premi el botó B.
      */
     //% block="iniciar joc" weight=2
     export function start(): void {
