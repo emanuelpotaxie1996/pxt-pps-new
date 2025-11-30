@@ -5,4 +5,4 @@
     "pps.start|block": "iniciar juego",
     "pps.startRadio|block": "iniciar juego con radio",
     "pps.showHand|block": "mostrar mano de %hand"
-},
+}
