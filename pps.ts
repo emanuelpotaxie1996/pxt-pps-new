@@ -1,3 +1,6 @@
+/**
+ * Tipus de mans
+ */
 enum Hands {
     //% block="pedra"
     Rock,
