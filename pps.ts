@@ -1,5 +1,5 @@
 /**
- * Tipus de mans
+ * El tipus Hands
  */
 enum Hands {
     //% block="pedra"
