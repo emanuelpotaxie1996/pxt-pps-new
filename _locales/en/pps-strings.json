@@ -2,5 +2,7 @@
     "Hands.Rock|block": "rock",
     "Hands.Paper|block": "paper",
     "Hands.Scissors|block": "scissors",
-    "pps.start|block": "start game"
+    "pps.start|block": "start game",
+    "pps.startRaddio|block": "start radio game",
+    "pps.showHand|block": "show %hand hand"
 }
