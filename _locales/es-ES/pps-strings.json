@@ -1,0 +1,8 @@
+{
+    "Hands.Rock|block": "piedra",
+    "Hands.Paper|block": "papel",
+    "Hands.Scissors|block": "tijeras",
+    "pps.start|block": "iniciar juego",
+    "pps.startRadio|block": "iniciar juego con radio",
+    "pps.showHand|block": "mostrar mano de %hand"
+}
